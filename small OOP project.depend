@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1524340364 source:c:\users\admin\desktop\domoop2\main.cpp
+	<iostream>
+	"Text.h"
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+
+1524340533 source:c:\users\admin\desktop\domoop2\line.cpp
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<sstream>
+	<fstream>
+	"Line.h"
+	"Text.h"
+
+1523453938 c:\users\admin\desktop\domoop2\word.h
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1524215861 c:\users\admin\desktop\domoop2\line.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1524340654 source:c:\users\admin\desktop\domoop2\text.cpp
+	"Text.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+
+1524317461 c:\users\admin\desktop\domoop2\text.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+
+1523100792 source:c:\users\admin\desktop\domoop2\word.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Word.h"
+
+1009837994 c:\users\admin\desktop\domoop2\word.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Word.h"
+
+1522746408 c:\users\admin\desktop\domoop2\line.cpp
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	"Text.h"
+
+1524342821 source:d:\domoop2oop\word.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Word.h"
+
+1524342877 d:\domoop2oop\word.h
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1524344058 source:d:\domoop2oop\line.cpp
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<sstream>
+	<fstream>
+	"Line.h"
+	"Text.h"
+
+1524344008 d:\domoop2oop\line.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1524344105 d:\domoop2oop\text.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+
+1525091816 source:d:\domoop2oop\main.cpp
+	<iostream>
+	"Text.h"
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+
+1524344394 source:d:\domoop2oop\text.cpp
+	"Text.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+
+1563814993 source:e:\ideaprojects\small oop project\small oop project\line.cpp
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<sstream>
+	<fstream>
+	"Line.h"
+	"Text.h"
+
+1563815029 e:\ideaprojects\small oop project\small oop project\word.h
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1563814566 e:\ideaprojects\small oop project\small oop project\line.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+
+1563813903 e:\ideaprojects\small oop project\small oop project\text.h
+	"Word.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+
+1563871830 source:e:\ideaprojects\small oop project\small oop project\text.cpp
+	"Text.h"
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+
+1563815058 source:e:\ideaprojects\small oop project\small oop project\word.cpp
+	<iostream>
+	<cstring>
+	<string.h>
+	<fstream>
+	"Word.h"
+
+1563871768 source:e:\ideaprojects\small oop project\small oop project\main.cpp
+	<iostream>
+	"Text.h"
+	<cstring>
+	<string.h>
+	<fstream>
+	"Line.h"
+	<string>
+	"Word.h"
+

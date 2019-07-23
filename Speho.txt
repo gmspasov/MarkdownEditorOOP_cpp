@@ -1,0 +1,18 @@
+This is a file for the oop homework.
+Although these lines are not so
+long nobody will be
+//the previous line was deleted but the text continues
+disappointed
+because the lines with length
+ smaller
+than 1024 symbols
+will appear in the text file of md.format.
+	Markdown as it is the whole name of
+the format is used in the web
+for adding texts.
+It is in some way close to HTML
+and even competitive with HTML
+and could take the place of it.
+Soon it will be time for breakfast
+so have a good day.
+!Adios!
